@@ -14,7 +14,7 @@ Usage:
 
 >
 
-eg. [http://139.59.28.109/api/closer](http://139.59.28.109/api/closer) will return `PT2_F-1esPk`
+> - eg. [http://139.59.28.109/api/closer](http://139.59.28.109/api/closer) will return `PT2_F-1esPk`
 
 ----------
 
