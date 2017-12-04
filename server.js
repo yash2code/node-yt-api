@@ -44,7 +44,7 @@ router.get('/:message', async function suggestTrack(req,res) { //function which 
     
         const track = await search(config.youtube.key, 'id,snippet', req.params.message);
         
-         res.send(`https://www.youtube.com/watch?v=${track}`);
+         res.send(`${track}`);
     });
 
 // more routes for our API will happen here
