@@ -7,7 +7,7 @@ A simple API which returns the videoId for the song name provided to the API lin
 ----------
 
 
-Usage:
+Example:
 -------------
 
 //139.59.28.109/api/{song_name}
@@ -32,4 +32,9 @@ Tech Stack Used:
 
 
 
-### UML diagrams
+Using it here:
+-------------
+
+> - Chatbot
+
+
