@@ -26,11 +26,10 @@ Tech Stack Used:
 
 > 
 
-> - Node.js v8.5.0
-> - Express v4.16
-> - googleapis
+> - [Node.js v8.5.0](https://nodejs.org/en/)
+> - [Express v4.16](https://expressjs.com/)
+> - [googleapis](https://www.npmjs.com/package/googleapis)
 
 
 
 ### UML diagrams
-
