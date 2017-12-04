@@ -10,7 +10,7 @@ A simple API which returns the videoId for the keyword provided to the API link.
 
 http://139.59.28.109/api/{song_name}
 
-eg. [http://139.59.28.109/api/closer](http://139.59.28.109/api/closer) will return > PT2_F-1esPk
+eg. [http://139.59.28.109/api/closer](http://139.59.28.109/api/closer) will return `PT2_F-1esPk`
 
 
 Tech Stack Used:
