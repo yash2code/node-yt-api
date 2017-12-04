@@ -2,7 +2,7 @@ Node-Youtube API for DO Campus Challenge!
 ===================
 
 
-A simple API which returns the videoId for the keyword provided to the API link.
+A simple API which returns the videoId for the song name provided to the API link.
 
 ----------
 
