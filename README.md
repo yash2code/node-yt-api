@@ -26,15 +26,31 @@ Tech Stack Used:
 
 > 
 
-> - [Node.js v8.5.0](https://nodejs.org/en/)
+> - [Node.js v9.2.0](https://nodejs.org/en/)
 > - [Express v4.16](https://expressjs.com/)
 > - [googleapis](https://www.npmjs.com/package/googleapis)
 
 
+----------
 
-Using it here:
+
+Deployed on:
+-------------
+
+
+
+> Digital Ocean
+
+> - One-click Nodejs App 
+> - Data Center - Bangalore
+> - 
+
+
+
+Applications:
 -------------
 
 > - Chatbot
-
+> - Mobile App
+> - Web App
 
