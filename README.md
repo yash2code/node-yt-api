@@ -2,7 +2,7 @@ Node-Youtube API for DO Campus Challenge!
 ===================
 
 
-A simple API which returns the videoId for the song name provided to the API link.
+A simple API which returns the videoId for the video name provided .
 
 ----------
 
@@ -10,7 +10,7 @@ A simple API which returns the videoId for the song name provided to the API lin
 Example:
 -------------
 
-//139.59.28.109/api/{song_name}
+localhost:8080/api/{video_name}
 
 >
 
@@ -45,12 +45,22 @@ Deployed on:
 > - Data Center - Bangalore
 > - 
 
+Requirement:
+-------------
+
+> - Youtube API key
+
+
+To run:
+-------------
+
+`node server.js`
 
 
 Applications:
 -------------
 
 > - Chatbot
-> - Mobile App
+> - [Mobile App](https://drive.google.com/open?id=0Byt5FwEh155SSFZTT2dtb0xRclYzWkFVUFl1aThqWWd4Wm1z)
 > - Web App
 
