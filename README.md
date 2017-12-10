@@ -61,6 +61,8 @@ Applications:
 -------------
 
 > - Chatbot
-> - [Mobile App](https://drive.google.com/open?id=0Byt5FwEh155SSFZTT2dtb0xRclYzWkFVUFl1aThqWWd4Wm1z)
+> - [Mobile App](https://drive.google.com/open?id=0Byt5FwEh155SSFZTT2dtb0xRclYzWkFVUFl1aThqWWd4Wm1z) // in dev mode
+
+            > - [Video demo](https://youtu.be/InS1tik7Zlw)
 > - Web App
 
